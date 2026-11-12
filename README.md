@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34745631/README.md)
 # Jay's Athletics
 
 Next.js + Supabase + Vercel storefront (white & gold theme).
